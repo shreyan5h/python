@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+print("Hello World from the inide of the ec2-Instance")
